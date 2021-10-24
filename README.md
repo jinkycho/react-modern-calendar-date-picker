@@ -2,14 +2,14 @@
 This is a forked version of [react-modern-calendar-datepicker@3.1.6](https://www.npmjs.com/search?q=react-modern-calendar-date-picker) that makes the library compatible with react v17.
 
 ### npm page:
-https://www.npmjs.com/package/react-modern-calendar-date-picker
+https://www.npmjs.com/package/@amir04lm26/react-modern-calendar-date-picker
 
 ## Installation 🚀
 ```bash
-npm i react-modern-calendar-date-picker
+npm i @amir04lm26/react-modern-calendar-date-picker
 
 # or if you prefer Yarn:
-yarn add react-modern-calendar-date-picker
+yarn add @amir04lm26/react-modern-calendar-date-picker
 ```
 
 ## Documentation 📄
