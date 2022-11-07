@@ -30,6 +30,21 @@ export const GREGORIAN_MONTHS = [
   'December',
 ];
 
+export const KOREAN_MONTHS = [
+  '1월',
+  '2월',
+  '3월',
+  '4월',
+  '5월',
+  '6월',
+  '7월',
+  '8월',
+  '9월',
+  '10월',
+  '11월',
+  '12월',
+];
+
 export const PERSIAN_WEEK_DAYS = [
   {
     name: 'شنبه',
@@ -91,6 +106,39 @@ export const GREGORIAN_WEEK_DAYS = [
   {
     name: 'Saturday',
     short: 'S',
+    isWeekend: true,
+  },
+];
+
+export const KOREAN_WEEK_DAYS = [
+  {
+    name: '일요일',
+    short: '일',
+    isWeekend: true,
+  },
+  {
+    name: '월요일',
+    short: '월',
+  },
+  {
+    name: '화요일',
+    short: '화',
+  },
+  {
+    name: '수요일',
+    short: '수',
+  },
+  {
+    name: '목요일',
+    short: '목',
+  },
+  {
+    name: '금요일',
+    short: '금',
+  },
+  {
+    name: '토요일',
+    short: '토',
     isWeekend: true,
   },
 ];
