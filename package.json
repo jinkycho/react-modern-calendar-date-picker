@@ -1,7 +1,7 @@
 {
   "name": "@jinkycho/react-modern-calendar-date-picker",
   "version": "1.0.0",
-  "description": "A modern, beautiful, customizable date picker for React",
+  "description": "A modern, beautiful, customizable date picker for React added Korean ver",
   "main": "lib/index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -40,7 +40,8 @@
     "beautiful",
     "animated",
     "javascript",
-    "persian"
+    "persian",
+    "korean"
   ],
   "size-limit": [
     {
