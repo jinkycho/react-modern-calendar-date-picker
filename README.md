@@ -12,6 +12,10 @@ npm i @amir04lm26/react-modern-calendar-date-picker
 yarn add @amir04lm26/react-modern-calendar-date-picker
 ```
 
+## Korean Version added
+This is a verson with Korean. You can set locale as 'ko' on Calendar.
+한국어를 추가한 버전입니다. locale에 'ko'를 넣어서 한국어로 설정할 수 있습니다.
+
 ## Documentation 📄
 You can find documentation on [the website.](https://kiarash-z.github.io/react-modern-calendar-datepicker/)
 

@@ -1,6 +1,6 @@
 {
-  "name": "@amir04lm26/react-modern-calendar-date-picker",
-  "version": "1.0.01",
+  "name": "@jinkycho/react-modern-calendar-date-picker",
+  "version": "1.0.0",
   "description": "A modern, beautiful, customizable date picker for React",
   "main": "lib/index.js",
   "types": "index.d.ts",
@@ -20,14 +20,14 @@
     "lib",
     "index.d.ts"
   ],
-  "author": "Amir Hossein Zare",
-  "homepage": "https://github.com/amir04lm26/react-modern-calendar-date-picker",
+  "author": "Jinky Cho",
+  "homepage": "https://github.com/jinkycho/react-modern-calendar-date-picker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amir04lm26/react-modern-calendar-date-picker.git"
+    "url": "https://github.com/jinkycho/react-modern-calendar-date-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/amir04lm26/react-modern-calendar-date-picker/issues"
+    "url": "https://github.com/jinkycho/react-modern-calendar-date-picker/issues"
   },
   "license": "MIT",
   "keywords": [
