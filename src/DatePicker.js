@@ -149,8 +149,8 @@ const DatePicker = ({
         inputPlaceholder={inputPlaceholder}
         inputClassName={inputClassName}
         renderInput={renderInput}
-        inputName={inputName}
         locale={locale}
+        inputName={inputName}
       />
       {isCalendarOpen && (
         <>
@@ -196,7 +196,7 @@ const DatePicker = ({
 
 DatePicker.defaultProps = {
   wrapperClassName: '',
-  locale: 'en',
+  locale: 'ko',
   calendarPopperPosition: 'auto',
 };
 
